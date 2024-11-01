@@ -1,8 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="1500">
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
+-----------------------------------------------------------
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 - 👋 Hi, I’m @priyanshaggarwal001
 - 👀 I’m interested in: **DATA ANALYSIS**
@@ -11,14 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<!---
-priyanshaggarwal001/priyanshaggarwal001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-
-
-
+----------------------------------------------------------------------
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -32,13 +25,39 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 
+##
+
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> All About Hacktoberfest 2024 </h2>
+<br/>
+
+[![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshaggarwal001)](https://holopin.io/@priyanshaggarwal001)
+
+<br/>
 
 
- ## 📊 GitHub Stats:
-![](https://github-trophies.vercel.app/?username=priyanshaggarwal001&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=radical&hide_border=false)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&theme=radical&rank_icon=github)
+### Github Stats 🧊
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshaggarwal001&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshaggarwal001&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshaggarwal001&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshaggarwal001&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshaggarwal001&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<br/>
+<br/>
+<br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <a>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=radical" alt="shivanshplays" /></p>
+   </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshaggarwal001&theme=synthwave-84&true&hide_border=true" />
+</div>
