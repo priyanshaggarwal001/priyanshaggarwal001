@@ -26,8 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
- 
-![](https://github-trophies.vercel.app/?username=priyanshaggarwal001)
+ ## 📊 GitHub Stats:
+![](https://github-trophies.vercel.app/?username=priyanshaggarwal001&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=radical&hide_border=false)<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&theme=radical&rank_icon=github)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
