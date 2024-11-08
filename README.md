@@ -28,7 +28,7 @@
 <h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> All About Hacktoberfest 2024 </h2>
 <br/>
 
-[![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshaggarwal001)](https://holopin.io/@priyanshaggarwal001)
+[![An image of @priyanshaggarwal001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshaggarwal001)](https://holopin.io/@priyanshaggarwal001)
 
 <br/>
 
