@@ -44,12 +44,6 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshaggarwal001&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshaggarwal001&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-
-<br/>
-<br/>
-<br/>
-
-
 <p align="center">
    <a>
      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=radical" alt="shivanshplays" /></p>
