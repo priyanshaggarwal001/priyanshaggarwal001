@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @priyanshaggarwal001
 - 👀 I’m interested in: **DATA ANALYSIS**
-- 📫 How to reach me : priyansh.aggarwal.delhi@gmail.com
+- 📫 How to reach me : priyansh.aggarwal23@gmail.com
 - ⚡ Fun fact: **I AM INTROVERT**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
