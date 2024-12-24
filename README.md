@@ -53,3 +53,34 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshaggarwal001&theme=synthwave-84&true&hide_border=true" />
 </div>
+
+##
+
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Connect with me:</h2>
+
+<!--
+<div align="center">
+  <a href="https://www.linkedin.com/in/suvadip-sana-b07a14243/" target="_main">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/suvadipsana2" target="_main">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+-->
+
+<div align="left">
+  
+  <a href="mailto:priyansh.aggarwal23@gmail.com.com" target="_blank" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href=https://www.linkedin.com/in/priyansh-aggarwal-85b37129a/" target="_main">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/priyansh_aggarw2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.leetcode.com/u/priyanshaggarwal2303/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suvadip_sana/"height="30" width="40" />
+  </a>
+</div>
