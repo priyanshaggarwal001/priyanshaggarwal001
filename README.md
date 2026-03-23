@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 - 👋 Hi, I’m @priyanshaggarwal001
-- 👀 I’m interested in: **DATA SCIENCE**
+- 👀 I’m interested in: **AI/ML Engineering**
 - 📫 How to reach me : priyansh.aggarwal23@gmail.com
 - ⚡ Fun fact: **I AM INTROVERT**
 
