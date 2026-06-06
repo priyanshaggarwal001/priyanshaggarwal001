@@ -10,55 +10,9 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1020&color=BB9AF7&center=true&vCenter=true&width=900&lines=Building+things+with+AI,+Data+and+Code;Exploring+LLMs,+RAG+and+Agentic+Systems" alt="Subtitle" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=PROFILE%20VIEWS&color=7DCFFF&style=for-the-badge" alt="Views" />
-</p>
-
 ---
-
-### 🚀 ENGINEERING LOG: CORE BUILDS
-
-📅 Autonomous Agentic Scheduling Engine
-  > Agentic AI | Google Gemini | Multimodal Automation | Large Scale Systems
-   - System Architecture: Engineered a sophisticated autonomous agent capable of parsing unstructured data streams from Gmail and academic PDF attachments. The system utilizes Google Gemini's multimodal capabilities to extract structured
-     event metadata, effectively bridging the gap between natural language communication and precise calendar management.
-   - Intelligent Reasoning: Developed a custom Importance Scoring Mechanism and a sentiment-aware reasoning engine. This allows the agent to not just "find dates," but to understand context—distinguishing between a casual meeting and a
-     critical deadline—and autonomously prioritize calendar entries.
-   - Production-Grade Engineering: Implemented a robust background task architecture for large-scale email synchronization. The system handles secure OAuth2 authentication flows and ensures persistent tracking of processed records,
-     maintaining high reliability and data consistency across thousands of automated scheduling actions.
-
-  🏥 Privacy-First Mental Wellness Ecosystem (Full-Stack)
-  > Full-Stack AI | Local LLM | LLaMA 3.2 | Neural Persistence
-   - Privacy-First Design: Architected a decentralized wellness platform that integrates a quantized LLaMA 3.2 model running entirely locally via Ollama. This design ensures 100% user data privacy, providing secure, offline emotional
-     support without ever exposing sensitive conversations to external third-party servers.
-   - Full-Stack Orchestration: Managed the complete development lifecycle, from designing a low-latency frontend architecture to implementing a multi-tier persistence and notification system. This ecosystem delivers personalized wellness
-     reminders and maintains sub-second interaction speeds, even during heavy local model inference.
-   - Advanced UX/UI Integration: Engineered a sentiment-aware UI that adapts to user input in real-time, coupled with an optimized backend that synchronizes local vector database insights with session-based user memory for a seamless,
-     "always-online" feeling.
-
-  💬 Clinical RAG-Based Support Assistant
-  > Generative AI | LangChain | ChromaDB | Clinical Intelligence
-   - Neural Retrieval Engine: Implemented a high-fidelity Retrieval-Augmented Generation (RAG) pipeline using LangChain and ChromaDB. The system ingests clinical, CBT-based documentation to provide context-grounded and therapeutically
-     informed responses, significantly reducing model hallucinations.
-   - Clinical Validation & Safety: Designed and deployed automated PHQ-9 and GAD-7 clinical screening modules. I integrated a dedicated safety guardrail layer utilizing regex-based crisis detection to identify high-risk mental health
-     inputs, instantly triggering emergency support recommendations when necessary.
-   - Data Pipeline Engineering: Constructed scalable pipelines for cleaning, normalizing, and embedding large-scale clinical datasets, ensuring that the AI’s knowledge base remains up-to-date and medically accurate for therapeutic
-     interaction.
-
-  📊 UIDAI Aadhaar Predictive Analytics Dashboard
-  > Machine Learning | Predictive Analytics | Geospatial Intelligence | Data Science
-   - Predictive Modeling: Engineered a Logistic Regression-based decision support system to identify high-risk Aadhaar enrollment gaps across varied demographics. By analyzing large-scale UIDAI datasets, the model predicts future
-     demographic trends with high precision, enabling proactive administrative interventions.
-   - Interactive Intelligence: Built a comprehensive analytics dashboard featuring complex geospatial and demographic visualizations. This allows stakeholders to interact with real-time risk-scoring data, transforming raw numbers into
-     actionable visual insights for data-driven decision making.
-   - Scalable Data Infrastructure: Implemented optimized data pipelines for the cleaning and normalization of massive, heterogeneous datasets. The architecture was designed to handle high-velocity data ingestion while maintaining
-     low-latency visualization performance for end-users.
-
-
----
-
 ### 🛠️ TECHNICAL INVENTORY
-
+<div align="left">
 <details open>
   <summary><b>Languages & Databases</b></summary>
   <br/>
@@ -70,7 +24,9 @@
     <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </p>
 </details>
+</div>
 
+<div align="left">
 <details open>
   <summary><b>ML & AI</b></summary>
   <br/>
@@ -83,7 +39,8 @@
     <img src="https://img.shields.io/badge/Agentic_AI-FFD21E?style=for-the-badge&logo=openai&logoColor=black" />
   </p>
 </details>
-
+</div>
+<div align="left">
 <details open>
   <summary><b>Libraries</b></summary>
   <br/>
@@ -96,7 +53,8 @@
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </p>
 </details>
-
+</div>
+<div align="left">
 <details open>
   <summary><b>Tools & Platforms</b></summary>
   <br/>
@@ -112,7 +70,8 @@
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
   </p>
 </details>
-
+</div>
+<div align="left">
 <details open>
   <summary><b>Concepts</b></summary>
   <br/>
@@ -123,6 +82,54 @@
     <img src="https://img.shields.io/badge/Prompt_Engineering-EA4335?style=for-the-badge" />
   </p>
 </details>
+</div>
+
+---
+
+### 🚀 ENGINEERING LOG: CORE BUILDS
+
+#### 🏥 **MindCare: Hybrid AI Wellness Ecosystem**
+> **Full-Stack Engineering | Local AI  | System Orchestration**
+
+| Component | Engineering Narrative |
+| :--- | :--- |
+| **Full-Stack Core** | **Built** a complete wellness platform for SIH featuring a privacy-first hybrid architecture. Developed a zero-config local environment with optional **Firebase/Google** cloud synchronization and a **Razorpay-integrated** counselor consultation marketplace. |
+| **Local AI & RAG** | **Integrated** a locally deployed **LLaMA 3.2** model via Ollama for private AI-powered support. Implemented context-aware **RAG** using **ChromaDB** and automated clinical screening workflows (**PHQ-9/GAD-7**) with dedicated safety guardrails. |
+| **System Operations** | **Developed** a multi-tier notification engine (Browser Push + Toast) and a persistent progress dashboard. Added interactive wellness modules, mood tracking, and local history management for long-term user engagement. |
+
+<br/>
+
+#### 📅 **Autonomous Agentic Scheduling Engine**
+ > **Agentic AI | Google Gemini | Multimodal Automation | Systems Design**
+
+| Module | Engineering Narrative |
+| :--- | :--- |
+| **Document Intelligence** | **Developed** a multimodal workflow utilizing **Google Gemini** to extract tasks, deadlines, and event information from unstructured Gmail conversations and PDF documents. |
+| **Decision Engine** | **Designed** an importance-scoring mechanism capable of prioritizing critical deadlines over routine events using contextual and sentiment-aware analysis. |
+| **Automation Layer** | **Implemented** secure **OAuth2** integration and asynchronous background processing for large-scale email synchronization and calendar automation. |
+
+<br/>
+
+#### 💬 **Clinical RAG-Based Support Assistant**
+> **Generative AI | LangChain | ChromaDB | Clinical Intelligence**
+
+| Module | Engineering Narrative |
+| :--- | :--- |
+| **Retrieval Engine** | **Built** a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** to deliver context-aware responses from CBT-based clinical resources. |
+| **Safety Framework** | **Implemented** automated PHQ-9 and GAD-7 assessment workflows alongside a dedicated safety layer for crisis-risk identification and escalation handling. |
+| **Knowledge Pipeline** | **Created** scalable document processing, embedding, and retrieval workflows to improve answer quality while minimizing hallucinations. |
+
+<br/>
+
+#### 📊 **UIDAI Aadhaar Predictive Analytics Dashboard**
+> **Machine Learning | Predictive Analytics | Geospatial Intelligence**
+
+| Module | Engineering Narrative |
+| :--- | :--- |
+| **Predictive Modeling** | **Developed** machine learning models to identify enrollment gaps and uncover demographic trends from large-scale Aadhaar datasets. |
+| **Analytics Dashboard** | **Built** an interactive intelligence dashboard featuring geospatial and demographic visualizations for data-driven decision-making. |
+| **Data Engineering** | **Designed** optimized preprocessing and analytics pipelines to support scalable reporting and high-performance exploration of large datasets. |
+
 
 ---
 
@@ -172,6 +179,9 @@
   <a href="https://www.leetcode.com/u/priyanshaggarwal2303/">
     <img src="https://img.shields.io/badge/LeetCode-1A1B26?style=for-the-badge&logo=leetcode&logoColor=FFB0E0" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=PROFILE%20VIEWS&color=FFB0E0&style=for-the-badge" alt="Views" />
 </p>
 
 <div align="center">
