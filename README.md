@@ -70,8 +70,11 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="35"> Engineering Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshaggarwal001&theme=tokyonight&no-frame=false&margin-w=15&column=7" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/priyanshaggarwal001?template=classic&base=header%2C+repositories%2C+metadata&config.timezone=Asia%2FCalcutta&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -98,7 +101,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&lines=%22We+can+only+see+a+short+distance+ahead%2C+but+we+can+see+plenty+there+that+needs+to+be+done.%22;%E2%80%94+Alan+Turing" alt="Alan Turing Quote" />
+  <h1>"We can only see a short distance ahead, but we can see plenty there that needs to be done."</h1>
+  <h3>— Alan Turing 🧠✨</h3>
 </div>
 
 <br/>
