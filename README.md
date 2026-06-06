@@ -16,31 +16,48 @@
 
 ---
 
-## PROJECT ARCHIVE
+### 🚀 ENGINEERING LOG: CORE BUILDS
 
-### Autonomous Agentic Scheduling Engine
-> **Agentic AI | Google Gemini | Multimodal Automation**
-- Architected a multimodal pipeline utilizing **Google Gemini** to parse complex documents (syllabi, meeting briefs) and automate calendar integration.
-- Engineered an autonomous agent for intelligent schedule management and importance-based deadline prioritization via unstructured Gmail data.
+📅 Autonomous Agentic Scheduling Engine
+  > Agentic AI | Google Gemini | Multimodal Automation | Large Scale Systems
+   - System Architecture: Engineered a sophisticated autonomous agent capable of parsing unstructured data streams from Gmail and academic PDF attachments. The system utilizes Google Gemini's multimodal capabilities to extract structured
+     event metadata, effectively bridging the gap between natural language communication and precise calendar management.
+   - Intelligent Reasoning: Developed a custom Importance Scoring Mechanism and a sentiment-aware reasoning engine. This allows the agent to not just "find dates," but to understand context—distinguishing between a casual meeting and a
+     critical deadline—and autonomously prioritize calendar entries.
+   - Production-Grade Engineering: Implemented a robust background task architecture for large-scale email synchronization. The system handles secure OAuth2 authentication flows and ensures persistent tracking of processed records,
+     maintaining high reliability and data consistency across thousands of automated scheduling actions.
 
-### Clinical RAG-Based Support Assistant
-> **Generative AI | LangChain | ChromaDB | CBT Intelligence**
-- Implemented a high-fidelity **Retrieval-Augmented Generation (RAG)** pipeline using LangChain to ingest clinical CBT-based PDFs for context-grounded responses.
-- Designed automated PHQ-9 and GAD-7 screening modules with a dedicated safety guardrail layer for real-time crisis detection.
+  🏥 Privacy-First Mental Wellness Ecosystem (Full-Stack)
+  > Full-Stack AI | Local LLM | LLaMA 3.2 | Neural Persistence
+   - Privacy-First Design: Architected a decentralized wellness platform that integrates a quantized LLaMA 3.2 model running entirely locally via Ollama. This design ensures 100% user data privacy, providing secure, offline emotional
+     support without ever exposing sensitive conversations to external third-party servers.
+   - Full-Stack Orchestration: Managed the complete development lifecycle, from designing a low-latency frontend architecture to implementing a multi-tier persistence and notification system. This ecosystem delivers personalized wellness
+     reminders and maintains sub-second interaction speeds, even during heavy local model inference.
+   - Advanced UX/UI Integration: Engineered a sentiment-aware UI that adapts to user input in real-time, coupled with an optimized backend that synchronizes local vector database insights with session-based user memory for a seamless,
+     "always-online" feeling.
 
-### Privacy-First Mental Wellness Ecosystem
-> **Full-Stack LLM | LLaMA 3.2 | Ollama | ChromaDB**
-- Architected a comprehensive full-stack wellness platform integrating a local **LLaMA 3.2** model via Ollama to ensure 100% data privacy and offline emotional support.
-- Developed a multi-tier persistence and notification system that delivers personalized wellness reminders while maintaining low-latency user interaction.
+  💬 Clinical RAG-Based Support Assistant
+  > Generative AI | LangChain | ChromaDB | Clinical Intelligence
+   - Neural Retrieval Engine: Implemented a high-fidelity Retrieval-Augmented Generation (RAG) pipeline using LangChain and ChromaDB. The system ingests clinical, CBT-based documentation to provide context-grounded and therapeutically
+     informed responses, significantly reducing model hallucinations.
+   - Clinical Validation & Safety: Designed and deployed automated PHQ-9 and GAD-7 clinical screening modules. I integrated a dedicated safety guardrail layer utilizing regex-based crisis detection to identify high-risk mental health
+     inputs, instantly triggering emergency support recommendations when necessary.
+   - Data Pipeline Engineering: Constructed scalable pipelines for cleaning, normalizing, and embedding large-scale clinical datasets, ensuring that the AI’s knowledge base remains up-to-date and medically accurate for therapeutic
+     interaction.
 
-### UIDAI Aadhaar Predictive Analytics Dashboard
-> **Machine Learning | Logistic Regression | Geospatial Intelligence**
-- Engineered a Logistic Regression-based decision support system to identify high-risk enrollment gaps and predict demographic trends.
-- Built an interactive analytics dashboard featuring complex geospatial and demographic visualizations for real-time data-driven decision making.
+  📊 UIDAI Aadhaar Predictive Analytics Dashboard
+  > Machine Learning | Predictive Analytics | Geospatial Intelligence | Data Science
+   - Predictive Modeling: Engineered a Logistic Regression-based decision support system to identify high-risk Aadhaar enrollment gaps across varied demographics. By analyzing large-scale UIDAI datasets, the model predicts future
+     demographic trends with high precision, enabling proactive administrative interventions.
+   - Interactive Intelligence: Built a comprehensive analytics dashboard featuring complex geospatial and demographic visualizations. This allows stakeholders to interact with real-time risk-scoring data, transforming raw numbers into
+     actionable visual insights for data-driven decision making.
+   - Scalable Data Infrastructure: Implemented optimized data pipelines for the cleaning and normalization of massive, heterogeneous datasets. The architecture was designed to handle high-velocity data ingestion while maintaining
+     low-latency visualization performance for end-users.
+
 
 ---
 
-## TECHNICAL INVENTORY
+### 🛠️ TECHNICAL INVENTORY
 
 <details open>
   <summary><b>Languages & Databases</b></summary>
