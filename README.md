@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D1FF&height=200&section=header&text=PRIYANSH%20AGGARWAL&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20RESEARCH%20%26%20SYSTEMS%20ARCHITECT&descAlignY=51&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D1FF&height=280&section=header&text=PRIYANSH%20AGGARWAL&fontSize=70&animation=fadeIn&fontAlignY=45&desc=AI%20RESEARCH%20%26%20SYSTEMS%20ARCHITECT&descAlignY=65&descSize=20" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Architect;LLM+Systems+Engineer;Full-Stack+AI+Developer;Neural+Research+Pioneer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750566-1c8c4b18-f4a3-4d85-b4a0-7b39f5f2f97e.gif" width="700" />
 </div>
 
 <p align="center">
@@ -11,19 +15,29 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656965-0f4c39fd-01d2-47f7-b1f8-5c749f79fcb5.gif" width="100%" />
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e0d8a8c-c6f6-4c8c-a8c6-81cb4f38e7f4.gif" width="100%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656967-49cc3b54-42b9-4b1f-8c17-6f5a4b69d9f4.gif" width="220" />
+</div>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30"> The Neural Mission
 > "I architect the neural substrates of tomorrow. My mission is to push the boundaries of LLM efficiency and Agentic autonomy through decentralized, privacy-first innovation."
 
 ---
+
+## 🧠 Neural Core Status
+
+```diff
++ AI Systems Online
++ Building Agentic Workflows
++ Researching LLM Architectures
++ Open To AI/ML Collaborations
+```
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30"> Flagship Engineering Feats
 
@@ -49,7 +63,7 @@
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30"> The Arsenal (Categorized)
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30"> The Arsenal 
 
 <details open>
   <summary><b>🧠 Artificial Intelligence & Deep Learning</b></summary>
@@ -88,14 +102,23 @@
 </details>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e0d8a8c-c6f6-4c8c-a8c6-81cb4f38e7f4.gif" width="100%">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshaggarwal001&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</div>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30"> Engineering Dashboard
 
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&rank_icon=github" width="100%" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&border_radius=10" width="100%" /></td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshaggarwal001&theme=tokyonight" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshaggarwal001&theme=tokyonight" width="100%" />
+      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
@@ -111,7 +134,9 @@
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="30"> Neural Activity Graph
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e0d8a8c-c6f6-4c8c-a8c6-81cb4f38e7f4.gif" width="100%">
+
+### Neural Activity Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/priyanshaggarwal001/priyanshaggarwal001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
