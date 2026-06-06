@@ -8,7 +8,7 @@
   
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=900&lines=Building+things+with+AI,+Data+and+Code;Exploring+LLMs,+RAG+and+Agentic+Systems" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1020&color=BB9AF7&center=true&vCenter=true&width=900&lines=Building+things+with+AI,+Data+and+Code;Exploring+LLMs,+RAG+and+Agentic+Systems" alt="Subtitle" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=PROFILE%20VIEWS&color=7DCFFF&style=for-the-badge" alt="Views" />
