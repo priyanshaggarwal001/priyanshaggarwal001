@@ -1,98 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=200&section=header&text=Priyansh%20Aggarwal&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D1FF&height=300&section=header&text=PRIYANSH%20AGGARWAL&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20RESEARCH%20%26%20SYSTEMS%20ARCHITECT&descAlignY=51&descSize=20" width="100%" />
 </div>
-
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="35"> Priyansh Aggarwal | AI Research & Systems Architect
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Architect;LLM+Systems+Engineer;Full-Stack+AI+Developer;Neural+Research+Pioneer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=Profile%20Views&color=00D1FF&style=for-the-badge" alt="priyanshaggarwal001" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=Neural%20Access%20Count&color=00D1FF&style=for-the-badge" alt="priyanshaggarwal001" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="100" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="100" />
-  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="80" />
+  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="80" />
+  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="80" />
+  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="80" />
+  <img src="https://raw.githubusercontent.com/MaySreymach/rolling-duck/main/rolling-duck.gif" width="80" />
 </div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25"> The Mission
-I am a **Systems Architect** and **AI Researcher** dedicated to bridging the gap between cutting-edge neural research and scalable, production-grade applications. My work spans the entire AI lifecycle—from low-level **Model Optimization** to high-level **Agentic Orchestration**.
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="35"> The Neural Mission
+> "I architect the neural substrates of tomorrow. My mission is to push the boundaries of LLM efficiency and Agentic autonomy through decentralized, privacy-first innovation."
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25"> Flagship Engineering Feats
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35"> Flagship Engineering Feats
 
-#### 🛡️ **Privacy-First Clinical Intelligence Platform**
-> *Re-imagining Mental Health Support through Decentralized AI*
-> - **Architecture**: Deployed quantized **LLaMA 3.2** locally via **Ollama**.
-> - **Innovation**: Built a hybrid **Semantic + Keyword Retrieval** system using **ChromaDB**.
+#### 📅 **Autonomous Agentic Scheduling System**
+> *Agentic AI | Google Gemini | Multimodal Automation*
+> - **Architected** a multimodal extraction pipeline utilizing **Google Gemini** to parse complex documents (syllabi, meeting briefs) and automate calendar integration with importance-based prioritization.
+> - **Engineered** secure OAuth2 authentication and a robust background task architecture for asynchronous, large-scale email synchronization.
 
-#### 🤖 **Agentic Multimodal Scheduler (Autonomous Agent)**
-> *The Future of Hyper-Personalized Productivity*
-> - **Intelligence**: Utilized **Google Gemini** for multimodal extraction from Gmail and PDFs.
-> - **Reasoning**: Developed a custom **Importance Scoring Mechanism**.
+#### 🏥 **Privacy-First Mental Wellness Ecosystem (Full-Stack)**
+> *Full-Stack LLM | LLaMA 3.2 | Ollama | ChromaDB*
+> - **Architected** a comprehensive full-stack wellness platform integrating a local **LLaMA 3.2** model via Ollama to ensure 100% data privacy and offline emotional support.
+> - **Developed** a multi-tier persistence and notification system that delivers personalized wellness reminders while maintaining low-latency user interaction across sessions.
 
----
+#### 💬 **Clinical RAG-Based Support Assistant**
+> *Generative AI | LangChain | ChromaDB | CBT Intelligence*
+> - **Implemented** a high-fidelity **Retrieval-Augmented Generation (RAG)** pipeline using LangChain to ingest clinical CBT-based PDFs, enabling context-grounded and therapeutically informed responses.
+> - **Designed** automated PHQ-9 and GAD-7 screening modules with a dedicated safety guardrail layer for real-time crisis detection.
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> The Arsenal (Vibrant Edition)
-
-<details open>
-  <summary><b>🧠 Artificial Intelligence & Deep Learning</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>💻 Software & Systems Engineering</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>☁️ Cloud & DevOps Infrastructure</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</details>
+#### 📊 **UIDAI Aadhaar Predictive Analytics Dashboard**
+> *Predictive Analytics | Logistic Regression | Geospatial Intelligence*
+> - **Engineered** a Logistic Regression-based decision support system to identify high-risk enrollment gaps and predict demographic trends with high accuracy.
+> - **Built** an interactive analytics dashboard featuring complex geospatial and demographic visualizations for real-time data-driven decision making.
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="25"> GitHub Engineering Stats
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="35"> The Tech Arsenal (Vibrant Edition)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&border_radius=10" width="100%" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=tokyonight&border_radius=10" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="35"> Engineering Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshaggarwal001&theme=tokyonight&border_radius=10" width="100%" />
 </div>
 
 <div align="center">
@@ -101,31 +84,21 @@ I am a **Systems Architect** and **AI Researcher** dedicated to bridging the gap
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="25"> Neural Activity Graph (Snake)
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="35"> Neural Activity Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/priyanshaggarwal001/priyanshaggarwal001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="25"> Connect with the Architect
-
-<p align="center">
-  <a href="mailto:priyansh.aggarwal23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyansh-aggarwal-85b37129a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/u/priyanshaggarwal2303/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" width="100%" />
 </div>
 
-<p align="center">
-  <i>"I'm not lazy, I'm just letting my local LLM hallucinate the rest of this README for me."</i> 🤖✨
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&lines=%22We+can+only+see+a+short+distance+ahead%2C+but+we+can+see+plenty+there+that+needs+to+be+done.%22;%E2%80%94+Alan+Turing" alt="Alan Turing Quote" />
+</div>
+
+<br/>
