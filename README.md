@@ -1,77 +1,51 @@
 <div align="center">
-  <!-- Hero Banner inspired by BrunnerLivio -->
+  <!-- Aesthetic TokyoNight Hero -->
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome" />
   
   <br/><br/>
 
-  <!-- Name and Title styled as a professional SVG note -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=My+name+is+Priyansh+Aggarwal;I+build+intelligent+autonomous+systems" alt="Priyansh Aggarwal - ML Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&lines=Priyansh+Aggarwal;Machine+Learning+Engineer" alt="Priyansh Aggarwal" />
   
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%7C+AI+Developer;LLM+Architect+%26+Systems+Engineer;Neural+Research+Pioneer" alt="Typing SVG Subtitle" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750566-1c8c4b18-f4a3-4d85-b4a0-7b39f5f2f97e.gif" width="700" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Full+Stack+Engineer;LLM+%26+Agentic+Systems+Architect" alt="Subtitle" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=NEURAL%20ACCESS%20COUNT&color=00D1FF&style=for-the-badge" alt="priyanshaggarwal001" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&label=PROFILE%20VIEWS&color=7DCFFF&style=for-the-badge" alt="Views" />
 </p>
 
-# ⚡ AI OPERATING SYSTEM
-
-```yaml
-User: Priyansh Aggarwal
-Version: 2.5
-Status: Online
-
-Focus:
-  - Machine Learning
-  - LLM Engineering
-  - Agentic AI
-  - Full Stack Development
-
-Current Objective:
-  Building intelligent systems that automate
-  complex real-world workflows.
-```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656965-0f4c39fd-01d2-47f7-b1f8-5c749f79fcb5.gif" width="100%" />
-</div>
-
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e0d8a8c-c6f6-4c8c-a8c6-81cb4f38e7f4.gif" width="100%">
 
-## 🚀 FEATURED BUILDS
+## 🎐 About The Developer
+Passionate **Machine Learning Engineer** and **AI Developer** dedicated to building intelligent, autonomous systems. I bridge the gap between cutting-edge research and production-grade software, with a deep focus on **LLMs**, **RAG architectures**, and **Agentic AI**.
 
-### 📅 Autonomous Agentic Scheduling Engine
-```diff
-+ Architected a multimodal pipeline utilizing Google Gemini to parse complex syllabi and documents.
-+ Engineered an autonomous agent for intelligent schedule management and deadline prioritization.
-+ Implemented secure OAuth2 synchronization with persistent background task workers.
-```
-
-### 🏥 Privacy-First Mental Wellness Ecosystem
-```diff
-+ Deployed quantized LLaMA 3.2 locally via Ollama to ensure 100% data privacy and offline utility.
-+ Integrated a high-fidelity RAG pipeline for context-grounded emotional support responses.
-+ Built automated screening modules with regex-based safety guardrails and crisis detection.
-```
-
-### 📊 UIDAI Predictive Analytics Dashboard
-```diff
-+ Developed a decision support system to identify high-risk enrollment gaps using Logistic Regression.
-+ Built an interactive dashboard featuring geospatial and demographic visualization of trends.
-+ Optimized scalable data pipelines for processing large-scale national identity datasets.
-```
+- 🔭 **Currently Building**: Scalable agentic workflows and privacy-first AI ecosystems.
+- 🧠 **Research Interest**: Fine-tuning, retrieval optimization, and multimodal reasoning.
+- ⚡ **Philosophy**: "Data-driven, code-powered, and infinitely curious."
 
 ---
 
-## 🛠️ THE ARSENAL
-> **Technical Inventory:** Authenticated skills extracted from professional neural substrates.
+## 💎 Featured Engineering Builds
+
+#### 📅 Autonomous Agentic Scheduling Engine
+> *Agentic AI | Google Gemini | Multimodal Automation*
+- **Architected** a multimodal pipeline utilizing **Google Gemini** to parse complex documents.
+- **Engineered** an autonomous agent for intelligent schedule management and deadline prioritization.
+
+#### 🏥 Privacy-First Mental Wellness Ecosystem
+> *Full-Stack LLM | LLaMA 3.2 | Ollama | ChromaDB*
+- **Deployed** quantized **LLaMA 3.2** locally via Ollama for 100% data privacy and offline support.
+- **Integrated** a RAG pipeline for context-grounded emotional support responses.
+
+#### 📊 UIDAI Predictive Analytics Dashboard
+> *Machine Learning | Logistic Regression | Geospatial Intelligence*
+- **Developed** a decision support system to identify high-risk enrollment gaps using Logistic Regression.
+- **Built** an interactive dashboard featuring geospatial and demographic visualization.
+
+---
+
+## 🛠️ The Tech Arsenal
 
 <details open>
   <summary><b>💻 Languages & Databases</b></summary>
@@ -80,7 +54,6 @@ Current Objective:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </p>
 </details>
@@ -90,22 +63,8 @@ Current Objective:
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/NLP-00D1FF?style=for-the-badge&logo=chatgpt&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fine--tuning-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAG_Pipelines-00D1FF?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/Agentic_AI-FFD21E?style=for-the-badge&logo=openai&logoColor=black" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📚 Engineering Libraries</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </p>
 </details>
@@ -115,31 +74,30 @@ Current Objective:
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 </details>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e0d8a8c-c6f6-4c8c-a8c6-81cb4f38e7f4.gif" width="100%">
 
-## 📡 LIVE TELEMETRY
+## 📊 TokyoNight Analytics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshaggarwal001&theme=tokyonight&no-frame=true&margin-w=15&row=1" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshaggarwal001&theme=tokyonight" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshaggarwal001&theme=tokyonight" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&border_radius=10" width="100%" />
       </td>
     </tr>
     <tr>
@@ -150,48 +108,39 @@ Current Objective:
   </table>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshaggarwal001&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
----
+<br/>
 
-## 🐍 CONTRIBUTION NETWORK
 <div align="center">
-  <img src="https://raw.githubusercontent.com/priyanshaggarwal001/priyanshaggarwal001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://metrics.lecoq.io/priyanshaggarwal001?template=classic&base=header%2C+repositories&config.timezone=Asia%2FCalcutta&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
-## 📬 SECURE CHANNEL
+## 📬 Secure Connect
+> Get in touch via the TokyoNight network.
 
 <p align="center">
   <a href="mailto:priyansh.aggarwal23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00D1FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=7DCFFF" />
   </a>
   <a href="https://www.linkedin.com/in/priyansh-aggarwal-85b37129a/">
-    <img src="https://img.shields.io/badge/LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=BB9AF7" />
   </a>
   <a href="https://www.leetcode.com/u/priyanshaggarwal2303/">
-    <img src="https://img.shields.io/badge/LeetCode-00D1FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-1A1B26?style=for-the-badge&logo=leetcode&logoColor=7DCFFF" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26&height=100&section=footer" width="100%" />
 </div>
 
 <p align="center">
   <i>"We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing</i> 🧠✨
 </p>
-
-```text
-[ SYSTEM LOG ]
-
-> Initialization: Python
-> Phase 1: Machine Learning Research
-> Phase 2: AI Systems Engineering
-> Current_Status: Engineering Autonomous Agents
-
-Next Target: Creating intelligent agents capable of real-world decision making.
-```
