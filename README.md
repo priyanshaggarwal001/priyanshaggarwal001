@@ -17,49 +17,46 @@
 
 ---
 
-## 🎐 About The Developer
-Passionate **Machine Learning Engineer** and **AI Developer** dedicated to building intelligent, autonomous systems. I bridge the gap between cutting-edge research and production-grade software, with a deep focus on **LLMs**, **RAG architectures**, and **Agentic AI**.
+## PROJECT ARCHIVE
 
-- 🔭 **Currently Building**: Scalable agentic workflows and privacy-first AI ecosystems.
-- 🧠 **Research Interest**: Fine-tuning, retrieval optimization, and multimodal reasoning.
-- ⚡ **Philosophy**: "Data-driven, code-powered, and infinitely curious."
+### Autonomous Agentic Scheduling Engine
+> **Agentic AI | Google Gemini | Multimodal Automation**
+- Architected a multimodal pipeline utilizing **Google Gemini** to parse complex documents (syllabi, meeting briefs) and automate calendar integration.
+- Engineered an autonomous agent for intelligent schedule management and importance-based deadline prioritization via unstructured Gmail data.
 
----
+### Clinical RAG-Based Support Assistant
+> **Generative AI | LangChain | ChromaDB | CBT Intelligence**
+- Implemented a high-fidelity **Retrieval-Augmented Generation (RAG)** pipeline using LangChain to ingest clinical CBT-based PDFs for context-grounded responses.
+- Designed automated PHQ-9 and GAD-7 screening modules with a dedicated safety guardrail layer for real-time crisis detection.
 
-## 💎 Featured Engineering Builds
+### Privacy-First Mental Wellness Ecosystem
+> **Full-Stack LLM | LLaMA 3.2 | Ollama | ChromaDB**
+- Architected a comprehensive full-stack wellness platform integrating a local **LLaMA 3.2** model via Ollama to ensure 100% data privacy and offline emotional support.
+- Developed a multi-tier persistence and notification system that delivers personalized wellness reminders while maintaining low-latency user interaction.
 
-#### 📅 Autonomous Agentic Scheduling Engine
-> *Agentic AI | Google Gemini | Multimodal Automation*
-- **Architected** a multimodal pipeline utilizing **Google Gemini** to parse complex documents.
-- **Engineered** an autonomous agent for intelligent schedule management and deadline prioritization.
-
-#### 🏥 Privacy-First Mental Wellness Ecosystem
-> *Full-Stack LLM | LLaMA 3.2 | Ollama | ChromaDB*
-- **Deployed** quantized **LLaMA 3.2** locally via Ollama for 100% data privacy and offline support.
-- **Integrated** a RAG pipeline for context-grounded emotional support responses.
-
-#### 📊 UIDAI Predictive Analytics Dashboard
-> *Machine Learning | Logistic Regression | Geospatial Intelligence*
-- **Developed** a decision support system to identify high-risk enrollment gaps using Logistic Regression.
-- **Built** an interactive dashboard featuring geospatial and demographic visualization.
+### UIDAI Aadhaar Predictive Analytics Dashboard
+> **Machine Learning | Logistic Regression | Geospatial Intelligence**
+- Engineered a Logistic Regression-based decision support system to identify high-risk enrollment gaps and predict demographic trends.
+- Built an interactive analytics dashboard featuring complex geospatial and demographic visualizations for real-time data-driven decision making.
 
 ---
 
-## 🛠️ The Tech Arsenal
+## TECHNICAL INVENTORY
 
 <details open>
-  <summary><b>💻 Languages & Databases</b></summary>
+  <summary><b>Languages & Databases</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </p>
 </details>
 
 <details open>
-  <summary><b>🧠 ML & AI Architecture</b></summary>
+  <summary><b>ML & AI Architecture</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -70,7 +67,7 @@ Passionate **Machine Learning Engineer** and **AI Developer** dedicated to build
 </details>
 
 <details>
-  <summary><b>🛠️ Tools & Platforms</b></summary>
+  <summary><b>Tools & Platforms</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -82,7 +79,7 @@ Passionate **Machine Learning Engineer** and **AI Developer** dedicated to build
 
 ---
 
-## 📊 TokyoNight Analytics
+## ANALYTICS DASHBOARD
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshaggarwal001&theme=tokyonight&no-frame=true&margin-w=15&row=1" width="100%" />
@@ -122,8 +119,7 @@ Passionate **Machine Learning Engineer** and **AI Developer** dedicated to build
 
 ---
 
-## 📬 Secure Connect
-> Get in touch via the TokyoNight network.
+## SECURE CONNECT
 
 <p align="center">
   <a href="mailto:priyansh.aggarwal23@gmail.com">
