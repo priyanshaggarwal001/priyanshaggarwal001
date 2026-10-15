@@ -155,15 +155,41 @@
 
 <br/>
 
+
+
+
+
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshaggarwal001&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshaggarwal001&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/priyanshaggarwal001?style=for-the-badge&color=bb9af7&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/priyanshaggarwal001?style=for-the-badge&color=9ece6a&label=TOTAL+STARS" alt="Stars"/>
 </div>
+
+
+
+
+
+
+
+
 
 <br/>
 
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/priyanshaggarwal001?template=classic&base=header%2C+repositories&config.timezone=Asia%2FCalcutta&theme=tokyonight" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyanshaggarwal001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshaggarwal001&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
+
 
 ---
 
